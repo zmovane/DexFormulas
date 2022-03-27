@@ -1,8 +1,6 @@
 # README
 
-## [PMM 原理](./PMM.ipynb)
-
-[DODO](https://dodoex.io/)
+## [PMM 原理](./PMM.ipynb) (PMM 算法属 [DODO](https://dodoex.io/) 自研)
 
 ## Requirements
 
