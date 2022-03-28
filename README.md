@@ -1,8 +1,10 @@
 # README
 
-## [PMM 算法原理](./PMM.ipynb) (PMM 算法属 [DODO](https://dodoex.io/) 自研)
+## [PMM 价格模型](./PMM.ipynb) (PMM 模型属 [DODO](https://dodoex.io/) 自研)
 
-## [AMM uniswap v2 算法原理](./AMM_uniswap_v2.ipynb)
+## [AMM uniswap v2 价格模型](./AMM_uniswap_v2.ipynb)
+
+## [AMM stableswap 价格模型](./AMM_stableswap.ipynb)
 
 ## Requirements
 
